@@ -11,7 +11,7 @@ learning by doing, one project at a time.
 - Daily DSA practice in C++ to sharpen problem-solving skills
 
 ### 📚 Currently learning
-`React` `Node.js` `Python` `REST APIs` `SQL`
+`React` `Python` `REST APIs` `SQL` `Fast API`
 
 ### 🛠️ Tech stack
 `C++` `Python` `JavaScript` `Git` `Linux`
